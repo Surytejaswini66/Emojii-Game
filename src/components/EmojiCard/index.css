@@ -1,0 +1,10 @@
+/* Write your code here. */
+.emoji-card {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.emoji-image {
+  width: 100px;
+  height: 100px;
+}
